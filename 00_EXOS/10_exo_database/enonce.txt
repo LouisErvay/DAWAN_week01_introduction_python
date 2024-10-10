@@ -1,0 +1,22 @@
+1  -  A la racine du projet:
+Ajouter un package nommé repositories contenant le module de fonction produitrepository.py
+
+Définir les fonctions suivantes
+init() -> crée la table produit + insertion de 3 produits
+
+get_all() -> renvoie la liste des produits
+
+get_produit_by_id() -> renvoie le produit selon l'ID
+
+insert() -> insert un produit
+
+update() -> modifie selon un ID
+
+delete() -> supprime selon un ID
+
+Ajoutez une configuration pour les logs, fichier des log dans le dossier
+Toutes les opérations & erreurs sont logguées
+logging.info
+
+
+2  -  A la racine, ajouter le fichier main.py et afficher un menu pour chaques fonctions

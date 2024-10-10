@@ -1,0 +1,9 @@
+Dans le fichier 'fichier1' il y a:
+Ceci est le contenu du fichier 1
+
+Dans le fichier 'fichier2' il y a:
+Ceci est le contenu du fichier 2
+
+Dans le fichier 'fichier3' il y a:
+Ceci est le contenu du fichier 3
+
